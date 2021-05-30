@@ -5,7 +5,7 @@ applications. All my work is an effort to create a perfect blend of design and t
 solving problems and learning every day. I am well versed in building and owning products end to end.
 
 Skills:
-* HTML,CSS, JavaScript, TypeScript
+* HTML, CSS, JavaScript, TypeScript
 * VueJs, Vuex, Vue Router
 * Webpack, Jasmine
 * REST API, GraphQL
