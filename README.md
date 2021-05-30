@@ -7,16 +7,17 @@ solving problems and learning every day. I am well versed in building and owning
 Skills:
 * HTML, CSS, JavaScript, TypeScript
 * VueJs, Vuex, Vue Router
-* Webpack, Jasmine
+* Jasmine,Jest
 * REST API, GraphQL
-* C++, Python
-* Data science: MachineLearning, DeepLearning, Data Analytics and Data visualization
+* C++, Python, SQL
+* VSCode, MSSQL, Jupyter notebook, Git, Webpack
+* MachineLearning, DeepLearning, Data Analytics and Data visualization
 
 
-Checkout my projects:
+Projects:
 * [Trello-Board](https://rohannegi2507.github.io/Trello-Board)
 * [SQL-Studio-Plus](https://rohannegi2507.github.io/sql-studio-plus/)
-* [Todo-App](https://rohannegi2507.github.io/todo-app/)
+* [Todo](https://rohannegi2507.github.io/todo-app/)
 * [Stopwatch](https://rohannegi2507.github.io/clock/)
 
 
