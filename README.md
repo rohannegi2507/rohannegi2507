@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**rohannegi2507/rohannegi2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineer with a focus on Frontend and 3 years of industry experience in designing and developing web
+applications. All my work is an effort to create a perfect blend of design and technology. I am passionate about
+solving problems and learning every day. I am well versed in building and owning products end to end.
 
-Here are some ideas to get you started:
+Skills:
+* HTML,CSS, JavaScript, TypeScript
+* VueJs, Vuex, Vue Router
+* Webpack, Jasmine
+* REST API, GraphQL
+* C++, Python
+* Data science: MachineLearning, DeepLearning, Data Analytics and Data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Checkout my projects:
+* [Trello-Board](https://rohannegi2507.github.io/Trello-Board)
+* [SQL-Studio-Plus](https://rohannegi2507.github.io/sql-studio-plus/)
+* [Todo-App](https://rohannegi2507.github.io/todo-app/)
+* [Stopwatch](https://rohannegi2507.github.io/clock/)
+
+
+Wanna connect socially?
+[Linkedin](https://www.linkedin.com/in/rohan-negi-dev/)
