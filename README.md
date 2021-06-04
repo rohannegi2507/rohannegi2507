@@ -19,7 +19,7 @@ Projects:
 * [SQL-Studio-Plus](https://rohannegi2507.github.io/sql-studio-plus/)
 * [Todo](https://rohannegi2507.github.io/todo-app/)
 * [Stopwatch](https://rohannegi2507.github.io/clock/)
-
+* [Virtual Keyboard](https://rohannegi2507.github.io/virtual-keyboard)
 
 Wanna connect socially?
 [Linkedin](https://www.linkedin.com/in/rohan-negi-dev/)
