@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-A Software Engineer with a focus on Frontend and 3 years of industry experience in designing and developing web
+A Software Engineer with a focus on Frontend and 4 plus years of industry experience in designing and developing web
 applications. All my work is an effort to create a perfect blend of design and technology. I am passionate about
 solving problems and learning every day. I am well versed in building and owning products end to end.
 
 Skills:
-* HTML, CSS, JavaScript, TypeScript
+* JavaScript, TypeScript, C++, Python, SQL
+* React, Redux, Redux-saga
 * VueJs, Vuex, Vue Router
-* Jasmine,Jest
+* Jasmine, Jest, React Test Library, VueTestUtils
+* CSS SCSS TailwindCSS
 * REST API, GraphQL
-* C++, Python, SQL
+* Storybook
 * VSCode, MSSQL, Jupyter notebook, Git, Webpack
 * MachineLearning, DeepLearning, Data Analytics and Data visualization
 
