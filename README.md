@@ -6,14 +6,14 @@ solving problems and learning every day. I am well versed in building and owning
 
 Skills:
 * JavaScript, TypeScript, C++, Python, SQL
-* React, Redux, Redux-saga
+* React, Redux, Redux-saga, NextJs
 * VueJs, Vuex, Vue Router
 * Jasmine, Jest, React Test Library, VueTestUtils
-* CSS SCSS TailwindCSS
+* CSS, SCSS, TailwindCSS, Styled Component
 * REST API, GraphQL
-* Storybook
+* Storybook, Material UI, Bootstap, Ant Design
 * VSCode, MSSQL, Jupyter notebook, Git, Webpack
-* MachineLearning, DeepLearning, Data Analytics and Data visualization
+* Machine Learning, Deep Learning, Data Analytics and Data visualization
 
 
 Projects:
