@@ -20,7 +20,6 @@ Projects:
 * [Portfolio](https://rohannegi.com)
 * [Blog App](https://blog-rohannegi2507.vercel.app/)
 * [Trello-Board](https://rohannegi2507.github.io/Trello-Board)
-* [SQL-Studio-Plus](https://rohannegi2507.github.io/sql-studio-plus/)
 * [Todo](https://rohannegi2507.github.io/todo-app/)
 * [Stopwatch](https://rohannegi2507.github.io/clock/)
 * [Virtual Keyboard](https://rohannegi2507.github.io/virtual-keyboard)
