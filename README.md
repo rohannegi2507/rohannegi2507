@@ -18,6 +18,7 @@ Skills:
 
 Projects:
 * [Portfolio](https://rohannegi.com)
+* [Quote Generator](https://rohannegi2507.github.io/quote-app)
 * [Blog App](https://blog-rohannegi2507.vercel.app/)
 * [Trello-Board](https://rohannegi2507.github.io/Trello-Board)
 * [Todo](https://rohannegi2507.github.io/todo-app/)
