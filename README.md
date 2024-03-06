@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Software Engineer with a focus on Frontend and 4 plus years of industry experience in designing and developing web
+A Software Engineer with a focus on Frontend and 5 plus years of industry experience in designing and developing web
 applications. All my work is an effort to create a perfect blend of design and technology. I am passionate about
 solving problems and learning every day. I am well versed in building and owning products end to end.
 
@@ -18,6 +18,7 @@ Skills:
 
 Projects:
 * [Portfolio](https://rohannegi.com)
+* [SketchBoard App](https://sketch-board-gilt.vercel.app/)
 * [Quote Generator](https://rohannegi2507.github.io/quote-app)
 * [Blog App](https://blog-rohannegi2507.vercel.app/)
 * [Trello-Board](https://rohannegi2507.github.io/Trello-Board)
